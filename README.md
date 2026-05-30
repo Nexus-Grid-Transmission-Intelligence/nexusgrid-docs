@@ -4,11 +4,12 @@ Supporting documentation for the Nexus Grid public demonstration environment.
 
 ## Documents
 
-- Methodology
-- Validation Boundaries
-- Example Scenarios
-- Glossary
-- What Nexus Grid Does And Does Not Claim
+- [Methodology](docs/methodology.md)
+- [Validation Boundaries](docs/validation-boundaries.md)
+- [Example Scenarios](docs/example-scenarios.md)
+- [Glossary](docs/glossary.md)
+- [What Nexus Grid Does And Does Not Claim](docs/what-nexus-does-and-does-not-claim.md)
+- [Assets](assets/README.md)
 
 ## Website
 
